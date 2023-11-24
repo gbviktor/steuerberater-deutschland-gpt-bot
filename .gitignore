@@ -1,0 +1,10 @@
+# exclude workspace cache
+.obsidian/workspace/*
+# This file is used to keep track of last auto backup/pull
+.obsidian-git-data
+# exclude Untitled notes
+Untitled*
+
+# exclude OS settings and caches
+.trash/
+.DS_Store

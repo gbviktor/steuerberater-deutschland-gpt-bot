@@ -1,7 +1,7 @@
-# Steuerberater Deutschland
+# Steuerberater Deutschland (KI)
 
 ## Überblick
-Steuerberater Deutschland ist ein fortschrittlicher GPT (Generative Pretrained Transformer), der speziell entwickelt wurde, um Nutzern umfassende Informationen und Unterstützung zum deutschen Steuersystem zu bieten. Dieser GPT bietet Einblicke in Steuersparstrategien, Steuererklärungen, die Verwaltung von Geschäftssteuern und vieles mehr.
+[Steuerberater Deutschland (GPT Bot)](https://chat.openai.com/g/g-gEzztHst7-steuerberater-deutschland) ist ein fortschrittlicher GPT (Generative Pretrained Transformer), der speziell entwickelt wurde, um Nutzern umfassende Informationen und Unterstützung zum deutschen Steuersystem zu bieten. Dieser GPT bietet Einblicke in Steuersparstrategien, Steuererklärungen, die Verwaltung von Geschäftssteuern und vieles mehr.
 
 ## Funktionen
 - **Unterstützung bei Steuererklärungen**: Beantwortet Fragen und gibt Tipps zur Erstellung Ihrer Steuererklärung.
@@ -19,4 +19,7 @@ Er ist eine wertvolle Ressource für alle, die ihr Verständnis von Steuern verb
 Das Hauptziel dieses Repositories ist die Schaffung einer zentralisierten und strukturierten Datenbank von Informationen, die für die Entwicklung von KI-basierten ChatGPT "Steuerberater Deutschalnd" relevant sind. Diese Daten sollen dazu beitragen, KI-Modell zu trainieren, um genaue, aktuelle und relevante steuerliche und rechtliche Beratungen zu ermöglichen.
 
 ## Mitwirkende
-- be first :)
+- be first ?
+
+## Hinweis
+Bitte beachten Sie, dass Steuerberater Deutschland allgemeine Informationen und Richtlinien bietet und keine persönliche Finanzberatung oder definitive rechtliche Meinungen ersetzt.
